@@ -1,0 +1,9 @@
+[
+	{
+		"modid": "binding-magic",
+		"name": "Binding Magic",
+		"version": "$version",
+		"mcversion": "$mcVersion",
+		"authors": ["CoderPuppy"]
+	}
+]
